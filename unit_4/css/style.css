@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap');
+
+body{
+		text-align: center;
+	background: url("https://i.imgur.com/fokkzD6.jpg");
+	background-size: cover;
+}
+
+h1, p {color: gold;
+	font-family: 'Ma Shan Zheng', cursive;
+}
+
+h2 {color: red;
+}
+
+li{color: yellow;
+text-align: center;}
+
+#slogan{
+	font-weight: bold;
+	color: blue;
+}
+
