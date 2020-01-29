@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Ma+Shan+Zheng&display=swap');
+
+.mafont {
+	font-family: 'Ma Shan Zheng';
+}
+
+body{
+	text-align: center;
+	font-size: 40px;
+	}
+
+img{
+	background-size: cover;
+	margin: 0 auto;
+}
+
+div{
+	font-size: .5em;
+	width: 46%;
+	padding: 2%; 
+	display: inline-block;
+}
+
+#why{
+	float: left;
+}
+
+#channels{	
+	float: right;
+}
+
+
+#wrapper{
+	background-color: gray;
+	width: 10px;
+	margin: 0 auto;
+}
+
+#hero{
+	display: block;
+	width: 100%;
+	margin: 0;
+	background: blue;
+}
+
+nav{
+	background-color: #aaaaaa;
+	color: white;
+	font-size: .3em;
+}
+
+a{
+	background-color: gray;
+	color: white;
+	display: block;
+	float: left;
+	padding 40px;
+}
+
+a:hover {
+	background-color: #aaaaaa;
+}
+
+li{
+	float: left;
+	width: 50%;
+	height: 3em;
+	outline: 3px solid #222;
+	text-align: center;
+	line-height: 3em;
+}
+
+.header{
+	font-family: 'Libre Baskerville';
+	font-size: .75em;
+	text-align: center;
+}
+
+.footer{
+	font-family: 'Libre Baskerville';
+	font-size: .25em;
+	text-align: center;
+	clear: both;
+}
